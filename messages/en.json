@@ -1,0 +1,53 @@
+{
+  "Common": {
+    "welcome": "Welcome to Sendly",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "error": "An error occurred: {message}",
+    "dashboard": "Dashboard",
+    "sendMoney": "Send Money",
+    "transactionHistory": "Transaction History",
+    "language": "Language",
+    "home": "Home",
+    "getStarted": "Get Started",
+    "back": "Back"
+  },
+  "Auth": {
+    "signInTitle": "Sign In to Your Account",
+    "signUpTitle": "Create Your Account",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "alreadyAccount": "Already have an account?",
+    "passwordMismatch": "Passwords do not match."
+  },
+  "Send": {
+    "sendAmountTitle": "Enter Amount to Send",
+    "usdAmount": "USD Amount to Send",
+    "recipientTypeLabel": "How will the recipient receive the money?",
+    "toIndividualCashPickup": "To Individual (Cash Pickup)",
+    "toBankAccount": "To Bank Account",
+    "toMobileWallet": "To Mobile Wallet (e.g., Telebirr)",
+    "continue": "Continue"
+  },
+  "Hero": {
+    "heroTitle": "Send Money to Ethiopia with Ease",
+    "heroSubtitle": "Fast, secure, and affordable money transfers.",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More"
+  },
+  "Header": {
+    "home": "Home",
+    "about": "About Us",
+    "contact": "Contact Us",
+    "services": "Services",
+    "features": "Features",
+    "how-it-works": "How It Works",
+    "testimonials": "Testimonials"
+  }
+}

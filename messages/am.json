@@ -1,0 +1,53 @@
+{
+  "Common": {
+    "welcome": "እንኳን ወደ ሴንድሊ በደህና መጡ",
+    "signIn": "ግባ",
+    "signUp": "ይመዝገቡ",
+    "logout": "ውጣ",
+    "email": "ኢሜል",
+    "password": "የይለፍ ቃል",
+    "confirmPassword": "የይለፍ ቃል ያረጋግጡ",
+    "submit": "አስገባ",
+    "loading": "በመጫን ላይ...",
+    "error": "ስህተት ተከስቷል: {message}",
+    "dashboard": "ዳሽቦርድ",
+    "sendMoney": "ገንዘብ ይላኩ",
+    "transactionHistory": "የግብይት ታሪክ",
+    "language": "ቋንቋ",
+    "home": "መነሻ",
+    "getStarted": "መጀመሪያ"
+    
+  },
+  "Auth": {
+    "signInTitle": "ወደ አካውንትዎ ይግቡ",
+    "signUpTitle": "አካውንትዎን ይፍጠሩ",
+    "forgotPassword": "የይለፍ ቃልዎን ረሱ?",
+    "noAccount": "አካውንት የለዎትም?",
+    "alreadyAccount": "አካውንት አለዎት?",
+    "passwordMismatch": "የይለፍ ቃሎች አይዛመዱም፡፡"
+  },
+  "Send": {
+    "sendAmountTitle": "የሚላክበትን መጠን ያስገቡ",
+    "usdAmount": "የሚላክበት የUSD መጠን",
+    "recipientTypeLabel": "ተቀባዩ ገንዘቡን እንዴት ይረከባል?",
+    "toIndividualCashPickup": "ለግለሰብ (በጥሬ ገንዘብ መውሰድ)",
+    "toBankAccount": "ወደ ባንክ አካውንት",
+    "toMobileWallet": "ወደ ሞባይል Wallet (ለምሳሌ ቴሌብር)",
+    "continue": "ቀጥል"
+  },
+  "Hero": {
+    "heroTitle": "ወደ ኢትዮጵያ ገንዘብ በቀላሉ ይላኩ",
+    "heroSubtitle": "ፈጣን፣ ደህና፣ እና በመጠኑ የተመጣጠነ ገንዘብ ማስተላለፊያ",
+    "getStarted": "መጀመሪያ",
+    "learnMore": "ተጨማሪ ያስተውሉ"
+  },
+  "Header": {
+    "home": "መነሻ",
+    "about": "ስለ እኛ",
+    "contact": "ያግኙ",
+    "services": "አገልግሎቶች",
+    "features": "ባለቤትነት",
+    "how-it-works": "እንዴት ይሰራል",
+    "testimonials": "ማስታወቂያዎች"
+  }
+}
